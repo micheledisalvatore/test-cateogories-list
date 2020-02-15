@@ -1,3 +1,45 @@
+# Notes
+Check the preview of this project on [netlify](https://boring-bohr-de5933.netlify.com/)
+Written different user case tests for Item component.
+Not accomplished the last user journey due to the fact that it is not part of the requirements.
+
+
+# Task
+This coding test is designed to show us your thought process and approach, as well as demonstrate your skills.
+We feel that, using the right technologies, it is possible to achieve what the test asks for in 2-3 hours. You may spend more time on the test if you wish.
+Feel free to ask us questions if you need to.
+
+## Technologies
+The only requirement is that you use Typescript. You can use whatever frameworks and libraries
+you feel are best, or are most comfortable with. Points will not be won or lost based on this
+choice, providing it is fit for purpose.
+Please choose an appropriate CSS framework or implement something yourself so that what we
+review is pleasant to look at and shows some thought as to layout and interactivity.
+
+## Requirements
+Create an application which will allow a user to manage categories of items. The categories
+should be in a hierarchy of potentially infinite depth. The items only require a label.
+The user should be able add, edit and remove both categories and items.
+Your solution should follow best practice. We expect to see the same techniques and
+approaches that you would use in a real project.
+
+## User journey
+Tom wants to keep track of his belongings. He is presented with a list of categories, showing the
+different levels visually.
+- He adds the category "Electronics", and under that, "Televisions".
+- To this category he adds the items "49-inch LCD", "40-inch plasma", and "32-inch CRT".
+- He adds the category "Gaming consoles", and under this, the items "PS4", "XBox One".
+- He edits "Gaming consoles" to sit under "Electronics".
+
+## Bonus points
+The following areas are not required, but if you choose to include them we will count them as
+bonus points.
+● Validation
+● Sensible and appropriate tests
+● Animations
+
+# React APP
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
