@@ -1,6 +1,8 @@
 # Notes
-Check the preview of this project on [netlify](https://boring-bohr-de5933.netlify.com/)
-Written different user case tests for Item component.
+Check the preview of this project on [netlify](https://boring-bohr-de5933.netlify.com/).
+
+Written different user test cases for Item component.
+
 Not accomplished the last user journey due to the fact that it is not part of the requirements.
 
 
